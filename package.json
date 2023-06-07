@@ -1,0 +1,25 @@
+{
+  "name": "excel-export",
+  "version": "1.0.0",
+  "description": "An excel handling react express application. ",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naolarega/excel-export.git"
+  },
+  "keywords": [
+    "typescript",
+    "nodejs",
+    "reactjs",
+    "expressjs"
+  ],
+  "author": "Naol Arega",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/naolarega/excel-export/issues"
+  },
+  "homepage": "https://github.com/naolarega/excel-export#readme",
+  "workspaces": [
+    "src/ui",
+    "src/api"
+  ]
+}
