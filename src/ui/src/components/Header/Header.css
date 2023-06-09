@@ -1,0 +1,6 @@
+header {
+    display: flex;
+    padding: 5px 20px;
+    margin: 0;
+    box-shadow: 0 4px 8px 4px #b5b5b5;
+}
